@@ -123,8 +123,6 @@ https://github.com/GunGonGamLee/ft_transcendence/assets/50707297/1f16167a-fda5-4
       <br />
       <sub>GitHub Flow Manager</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sejoonkimmm">
         <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
@@ -140,8 +138,6 @@ https://github.com/GunGonGamLee/ft_transcendence/assets/50707297/1f16167a-fda5-4
       <br />
       <sub>GitHub Flow Manager</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/sejoonkimmm">
         <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
