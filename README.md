@@ -102,8 +102,60 @@ https://github.com/GunGonGamLee/ft_transcendence/assets/50707297/1f16167a-fda5-4
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1711170663418?alt=media&token=0ff40d88-2773-45a6-a65a-93cf7e1bb2e5)](https://github.com/msdio/stackticon)
 </br></br>
 
-## 팀원
-|![yena](https://avatars.githubusercontent.com/u/50291995?v=4)|![donghyk2](https://avatars.githubusercontent.com/u/81581828?v=4)|![wonlim](https://avatars.githubusercontent.com/u/90092181?v=4)|![sejokim](https://avatars.githubusercontent.com/u/117820621?v=4)|![hyojocho](https://avatars.githubusercontent.com/u/50707297?v=4)|
-|:-:|:-:|:-:|:-:|:-:|
-|[yena](https://github.com/nyj001012)|[donghyk2](https://github.com/donghyun1998)|[wonlim](https://github.com/LWJ0513)|[sejokim](https://github.com/sejoonkimmm)|[hyojocho](https://github.com/bluedog129)|
-</br>
+
+
+## Contributors 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sejoonkimmm">
+        <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
+        <br />
+        <sub><b>Sejoon Kim</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>DevOps, Product Manager</sub>
+      <br />
+      <sub>Project Flow & Architecture Designer</sub>
+      <br />
+      <sub>GitHub Flow Manager</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sejoonkimmm">
+        <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
+        <br />
+        <sub><b>Sejoon Kim</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>DevOps, Product Manager</sub>
+      <br />
+      <sub>Project Flow & Architecture Designer</sub>
+      <br />
+      <sub>GitHub Flow Manager</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sejoonkimmm">
+        <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
+        <br />
+        <sub><b>Sejoon Kim</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>DevOps, Product Manager</sub>
+      <br />
+      <sub>Project Flow & Architecture Designer</sub>
+      <br />
+      <sub>GitHub Flow Manager</sub>
+    </td>
+  </tr>
+</table>
