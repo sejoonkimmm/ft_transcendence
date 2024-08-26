@@ -153,5 +153,35 @@ https://github.com/GunGonGamLee/ft_transcendence/assets/50707297/1f16167a-fda5-4
       <br />
       <sub>GitHub Flow Manager</sub>
     </td>
+    <td align="center">
+      <a href="https://github.com/sejoonkimmm">
+        <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
+        <br />
+        <sub><b>Sejoon Kim</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>DevOps, Product Manager</sub>
+      <br />
+      <sub>Project Flow & Architecture Designer</sub>
+      <br />
+      <sub>GitHub Flow Manager</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sejoonkimmm">
+        <img src="https://github.com/sejoonkimmm.png" width="150px;" alt="Sejoon Kim"/>
+        <br />
+        <sub><b>Sejoon Kim</b></sub>
+      </a>
+      <br />
+      <a href="https://github.com/sejoonkimmm"><img src="https://img.shields.io/badge/GitHub-sejoonkimmm-blue?logo=github" alt="GitHub Badge" /></a>
+      <br />
+      <sub>DevOps, Product Manager</sub>
+      <br />
+      <sub>Project Flow & Architecture Designer</sub>
+      <br />
+      <sub>GitHub Flow Manager</sub>
+    </td>
   </tr>
 </table>
