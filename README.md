@@ -1,11 +1,44 @@
 # ft_transcendence
 <img width="400" alt="image" src="https://github.com/GunGonGamLee/ft_transcendence/assets/50707297/ce67f899-fa8b-486a-8d1c-6587f1f2a302"> </br>
-### Transcendence, 한계를 넘어 초월의 탁구세계로!
-이 프로젝트는 사용자들이 실시간으로 서로 경쟁할 수 있는 온라인 pingpong 게임 웹사이트입니다. </br>
 
-1972년에 처음 선보인 원조 Pong 게임의 클래식한 매력을 현대적인 웹 환경에서 재현했습니다. </br>
+## Online Pixel Pong: A Modern Take on a Classic
+Welcome to Online Pixel Pong, a web-based reimagining of the iconic 1972 Pong game. Our project brings the classic charm of the original into the modern web era, offering a nostalgic yet fresh gaming experience.
 
-그 시절의 느낌을 웹에서 느낄 수 있게 픽셀 아트 테마로 재창조하여, 감성적인 레트로 경험을 제공하기 위해 노력했습니다. </br>
+### Key Features
+
+### Real-Time Multiplayer
+
+* Enjoy seamless real-time gameplay powered by WebSocket technology
+* Compete against friends or random opponents from around the world
+
+### Tournament System
+
+* Participate in exciting tournaments to determine the ultimate Pong champion
+* Climb the ranks and prove your skills against tough competition
+
+### Player Profiles and Statistics
+
+* Track your game history and performance statistics
+* View detailed match results and analyze your progress over time
+
+### Social Features
+
+* Add and remove friends for easy matchmaking
+* Check your friends' online/offline status in real-time
+* View and compare friend profiles to see how you stack up
+
+### Diverse Game Modes
+
+* Rank Game: Test your skills in 4-player random matchups
+* Custom Rooms: Create and join custom game rooms tailored to your preferences
+
+### 3Retro Pixel Art Design
+
+* Immerse yourself in a pixel art theme that captures the essence of the 1972 original
+* Experience the nostalgic feel of classic gaming with modern web technologies
+
+Relive the classic charm of the 1972 Pong game in a contemporary web environment. Our pixel-based design offers an authentic retro experience while leveraging cutting-edge web technologies for smooth, responsive gameplay.
+Join us for a trip down memory lane with a modern twist. Get ready to paddle your way to victory in Online Pixel Pong!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGunGonGamLee%2Fft_transcendence&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br></br>
